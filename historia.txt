@@ -1,0 +1,15 @@
+Esta es la historia de como Rafa esta intentando cambiar su carrera.
+
+Estudié derecho y administración de empresas y hasta ahora no me ha ido mal.
+Tengo un buen trabajo y me pagan bien.
+
+Sin embargo, me empiezo a sentir un poco cansado de esto. Necesito un cambio.
+
+Hace poco descubrí la programación y estoy encantando. 
+Esto le ha sumado una emoción increible a mi vida como desde hace mucho no sentía.
+
+En este momento estoy aprndiendo un poco de JavaScript y Phyton.
+Además acabo de hacer mi primer commit en Git y ahora estoy haciendo modificaciones a este archivo para ver como funciona eso del control de versiones.
+
+=)
+
